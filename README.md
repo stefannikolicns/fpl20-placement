@@ -1,6 +1,11 @@
 # Timing-Driven Placement for FPGA Architectures with Dedicated Routing Paths
 
 
+
+**This repository has been migrated to [https://github.com/EPFL-LAP/fpl20-placement] and will no longer be maintained.**
+
+
+
 This repository holds an implementation of a timing-driven detailed placer for FPGA architectures with direct connections between LUTs.
 
 For detailed background on the placement algorithm, please refer to:
