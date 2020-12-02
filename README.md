@@ -6,6 +6,9 @@
 
 
 
+
+
+
 This repository holds an implementation of a timing-driven detailed placer for FPGA architectures with direct connections between LUTs.
 
 For detailed background on the placement algorithm, please refer to:
